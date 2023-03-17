@@ -69,33 +69,33 @@ main {
 }
 #item1 {
 background-image: url(./img/h3.png);
-background-size:cover;
+background-size:contain;
 background-position-x: center;
 
 }
 #item2 {
 background-image: url(./img/sh.png);
-background-size:cover;
+background-size:contain;
 background-position-x: center;	
 }
 #item3 {
 background-image: url(./img/mony.png);
-background-size:cover;
+background-size:contain;
 background-position-x: center;
 }
 #item4 {
 background-image: url(./img/b.png);
-background-size:cover;
+background-size:contain;
 background-position-x: center;
 }
 #item5 {
 background-image: url(./img/td.png);
-background-size:cover;
+background-size:contain;
 background-position-x: center;
 }
 #item6 {
 background-image: url(./img/ex.png);
-background-size:cover;
+background-size:contain;
 background-position-x: center;
 }
 
